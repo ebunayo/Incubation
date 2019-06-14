@@ -28,9 +28,26 @@ Achieve more liquidity for the HYDRO token
 
 Position Project Hydro as an industry leader
 
-##What we are looking for
+## What we are looking for
 
 Creative dApp ideas that can be built on the Hydro protocols
 
 Passion and dedication to ensuring dApp ideas are turned into working products and gain user acceptance
 
+## INCUBATION PROGRAM BREAKDOWN STRUCTURE
+
+#### Application Submission
+
+This stage involves the submission of application. The process includes understanding the terms and carefully filling the application form
+
+#### Review/Interview
+
+This stage involves the review of all application by the team. During this stage, the applications are reviewed based on:
+
+Types of dApp
+
+Usefulness and resourcefulness in contributing to the Blockchain and Hydro ecosystem
+
+Amount of $ involved in development process
+
+Experience of the individual and team submitting the application to manage the dApp after the development is done.
