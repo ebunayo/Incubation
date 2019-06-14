@@ -19,8 +19,12 @@ We will provide support for startup formation, recruiting, technical execution, 
 
 ## Goals
 Incubate projects/dApps
+
 Create more developers on the Hydro protocols
+
 Increase the reach and visibility of the Hydro products
+
 Achieve more liquidity for the HYDRO token
+
 Position Project Hydro as an industry leader
 
