@@ -51,3 +51,29 @@ Usefulness and resourcefulness in contributing to the Blockchain and Hydro ecosy
 Amount of $ involved in development process
 
 Experience of the individual and team submitting the application to manage the dApp after the development is done.
+
+#### Community Voting
+
+Selected dApp in step II above will go through community voting to allow for community to evaluate how resourceful the dApp will be to the ecosystem. This stage will involve:
+
+Sending messages to the dApp owner to put together a 60 seconds video to explain their project.
+
+Putting the explainer videos on social media for community members to view.
+
+Community voting
+
+#### Announcement
+
+Projects that qualified through community voting will be announced. 
+
+#### Training/Development process
+
+This stage includes sourcing and training developers that will work on the dApp about the Hydro Lab development procedures and standards
+
+#### Beta testing
+
+dApps built are tested to check for bugs
+
+#### Product Launch
+
+dApp built are launched for public use
