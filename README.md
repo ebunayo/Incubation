@@ -28,3 +28,9 @@ Achieve more liquidity for the HYDRO token
 
 Position Project Hydro as an industry leader
 
+##What we are looking for
+
+Creative dApp ideas that can be built on the Hydro protocols
+
+Passion and dedication to ensuring dApp ideas are turned into working products and gain user acceptance
+
